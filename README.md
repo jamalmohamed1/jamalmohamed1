@@ -1,101 +1,80 @@
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Jamalmohamed1" src="art/header-light.png">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-dark.png">
+    <img src="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-light.png" alt="Houria Hasbellaoui Banner" width="100%">
+  </picture>
+</p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#EF93C4;">Jamal Mohamed T</span></h1>
+<h1 align="center">
+  Hey there, I'm <span style="color:#A78BFA;">Houria</span>
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Aspiring+AI%2FML+Engineer;Software+Engineer;Deep+Learning+Enthusiast;Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=D8B4FE&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Content+Creator;Open+Source+Enthusiast;Problem+Solver"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Jamalmohamed1?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
-  <img src="https://img.shields.io/github/stars/Jamalmohamed1?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
-  <img src="https://komarev.com/ghpvc/?username=Jamalmohamed1&style=for-the-badge&color=EF93C4"/>
+  <img src="https://img.shields.io/github/followers/Houria-hs?style=for-the-badge&logo=github&label=Followers&color=A78BFA" />
+  <img src="https://img.shields.io/github/stars/Houria-hs?style=for-the-badge&logo=github&label=Stars&color=A78BFA" />
+  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=A78BFA"/>
 </p>
 
-<h2 align="center">🧑‍💻 About Me</h2>
 
-I'm a **B.Tech Artificial Intelligence & Data Science** student passionate about building practical software, exploring AI/ML, and turning ideas into real-world applications.
 
-I'm currently focused on strengthening my foundations in **Python, Data Science, AI/ML, SQL, Web Development, Cloud, and DevOps**, while building projects that help me learn by doing.
+<h2 align="center">👩‍💻 About Me</h2>
 
-- 🎓 B.Tech Artificial Intelligence & Data Science
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
-- 🐍 Currently improving my Python skills
-- 🗄️ Learning and practicing SQL & databases
-- 🌐 Familiar with HTML & CSS
-- ☁️ Exploring AWS & Cloud technologies
-- ⚙️ Interested in DevOps & software development
-- 🚀 Building projects to improve my practical skills
-- 📚 Currently learning DSA & problem solving
-- 🎯 Goal: Become a strong AI/ML & Software Engineer
+<table align="center">
+<tr>
+
+<td width="65%" valign="top">
+
+- 💻 Full Stack Developer passionate about building modern web apps.
+- 🌱 Currently learning System Design, Cloud & DevOps.
+- 🚀 Building AI-powered projects and contributing to Open Source.
+- 🎯 Goal: Create products that solve real-world problems.
+- 🌌 Passionate about AI, astronomy, Art,painting, and building things that matter.
+- ✨ Always chasing the next idea worth building.
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Cute developer girl" />
+
+</td>
+
+</tr>
+</table>
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,sql,html,css,aws,git,github,vscode&perline=16"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma,git,github,vscode,figma,postman,linux,bash,npm,pnpm,yarn&perline=16"/>
 </p>
 
-**Currently Learning:** DSA · Machine Learning · Deep Learning · AWS · DevOps
-
-<h2 align="center">🚀 Projects</h2>
-
-**🤖 AI & Computer Vision**
-Working on AI-based projects including computer vision and deepfake-related applications, exploring how machine learning can solve real-world problems.
-
-**🗺️ Trip Assistant**
-A travel assistant application concept combining maps, trip planning, shared trip rooms, Python, and MySQL to make travel planning easier.
-
-**🏋️ Gym Workout Tracker**
-Exploring the development of a workout tracking application for recording exercises, progress, and fitness routines.
-
-<h2 align="center">📈 My Current Focus</h2>
-
-```
-Python
-   ↓
-DSA & Problem Solving
-   ↓
-SQL & Data Structures
-   ↓
-Machine Learning
-   ↓
-Deep Learning & Computer Vision
-   ↓
-AI Projects
-   ↓
-AWS + DevOps
-   ↓
-AI/ML & Software Engineering
-```
-
-<h2 align="center">🎯 2026 Goals</h2>
-
-- 🚀 Build strong AI/ML projects
-- 🧠 Improve DSA & problem-solving skills
-- ☁️ Gain practical AWS knowledge
-- ⚙️ Learn DevOps fundamentals
-- 💼 Secure a strong software/AI internship
-- 📂 Build a high-quality GitHub portfolio
-- 🌎 Contribute to open-source projects
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Jamalmohamed1&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
+<img src="https://streak-stats.demolab.com?user=Houria-hs&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=D8B4FE&sideLabels=D8B4FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
 </p>
 
+
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamalmohamed1&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D1117&color=D8B4FE&line=A78BFA&point=8B5CF6&area=true&area_color=D8B4FE&hide_border=true"/>
+
 </p>
 
-<h2 align="center">🐍 Contribution Graph</h2>
+
+
+<h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jamalmohamed1/Jamalmohamed1/output/github-contribution-grid-snake.svg"
-
+  <img src="https://github.com/Houria-hs/Houria-hs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--
@@ -107,32 +86,41 @@ To enable the snake animation:
    output/github-contribution-grid-snake.svg
 -->
 
-<h2 align="center">🤝 Let's Connect</h2>
 
-<p align="center">
-I'm always interested in AI, software development, data science, technology, and interesting projects. If you're building something cool, feel free to connect with me!
-</p>
+<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jamal-mohamed-4238ab329">
+<a href="https://linkedin.com/in/houria-hasbellaoui">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/jamazhh">
+<a href="https://twitter.com/HHourr68570">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/hourycodes">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:jamalmohamedt@gmail.com">
+<a href="https://www.tiktok.com/@hourycodes">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@hourycodes">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:houriahasbell@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<p align="center">
-⭐ <i>"Learn. Build. Break. Improve. Repeat."</i>
-</p>
 
+<p align="center" >
+See you in the next commit 🌸
+</p>
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:A78BFA,100:7C3AED&height=140&section=footer"/>
 </p>
