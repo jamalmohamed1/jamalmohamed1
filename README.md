@@ -91,6 +91,21 @@ AI/ML & Software Engineering
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamalmohamed1&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
 </p>
 
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github.com/Jamalmohamed1/Jamalmohamed1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<!--
+To enable the snake animation:
+
+1. Create a GitHub Action in this repository.
+2. Use Platane/snk to generate the SVG every day.
+3. Commit the generated file into:
+   output/github-contribution-grid-snake.svg
+-->
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
@@ -98,12 +113,19 @@ I'm always interested in AI, software development, data science, technology, and
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/jamal-mohamed">
+
+<a href="https://www.linkedin.com/in/jamal-mohamed-4238ab329">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/jamazhh">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<a href="mailto:jamalmohamedt@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
