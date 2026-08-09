@@ -94,7 +94,7 @@ AI/ML & Software Engineering
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jamalmohamed1/Jamalmohamed1/output/. github-contribution-grid-snake.svg"
+  <img src="https://raw.githubusercontent.com/Jamalmohamed1/Jamalmohamed1/output/github-contribution-grid-snake.svg"
 
 </p>
 
