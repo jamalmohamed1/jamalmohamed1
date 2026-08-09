@@ -98,7 +98,7 @@ I'm always interested in AI, software development, data science, technology, and
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jamal-mohamed-4238ab329?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+<a href="https://linkedin.com/in/jamal-mohamed">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/jamazhh">
@@ -113,5 +113,3 @@ I'm always interested in AI, software development, data science, technology, and
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
 </p>
-
-
