@@ -94,7 +94,7 @@ AI/ML & Software Engineering
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github.com/Jamalmohamed1/Jamalmohamed1/.github/workflows/snake.yml.txt" alt="Snake animation">
+  <img src="https://github.com/Jamalmohamed1/Jamalmohamed1/.github/workflows/snake.yml" alt="Snake animation">
 </p>
 
 <!--
