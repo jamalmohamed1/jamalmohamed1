@@ -35,7 +35,7 @@ I'm currently focused on strengthening my foundations in **Python, Data Science,
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,sql,html,css,aws,git,github,vscode&perline=16"/>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,pr,ae,aws,git,github,vscode&perline=16"/>
 </p>
 
 **Currently Learning:** DSA · Machine Learning · Deep Learning · AWS · DevOps
